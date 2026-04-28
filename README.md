@@ -21,7 +21,7 @@
 
 ### 🎓 Education
 
-- **BSc in Computer Science** — University of Silesia · graduated with honors, GPA 5.0
+- **BSc in Computer Science** — University of Silesia ·  GPA 5.0
 - **MSc in Computer Science** — Data Science & ML track · in progress
 
 ### 📫 Contact
