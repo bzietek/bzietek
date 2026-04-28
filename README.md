@@ -16,8 +16,8 @@
 |------|--------------|
 | **Languages** | Python, TypeScript, SQL, Java |
 | **Machine learning & AI** | scikit-learn, PyTorch, Hugging Face Transformers, LangChain, OpenAI API |
-| **Data & analytics** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter |
-| **Tools** | Git, Docker, Streamlit |
+| **Data & analytics** | Pandas, NumPy, Matplotlib, Jupyter |
+| **Tools** | Git, Streamlit, Docker (basics) |
 
 ### 🎓 Education
 
