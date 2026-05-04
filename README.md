@@ -17,16 +17,16 @@
 | **Languages** | Python, TypeScript, SQL, Java |
 | **Machine learning & AI** | scikit-learn, PyTorch, Hugging Face Transformers, LangChain, OpenAI API |
 | **Data & analytics** | Pandas, NumPy, Matplotlib, Jupyter |
-| **Tools** | Git, Streamlit, Docker |
+| **Tools** | Git, Streamlit, Docker (basics) |
 
 ### 🎓 Education
 
-- **BSc in Computer Science** — University of Silesia ·  GPA 5.0
-- **MSc in Computer Science** — Data Science & ML track · in progress
+- **BSc in Computer Science** — University of Silesia · graduated with honors, GPA 5.0
+- **MSc in Computer Science** — Data Science & ML track · weekend studies, in progress
 
 ### 📫 Contact
 
 - **Email:** bzietek02@gmail.com
 - **LinkedIn:** [bartosz-zietek](https://linkedin.com/in/bartosz-zietek)
 
-> 💼 **Open to Junior ML Engineer / Data Scientist / AI Engineer roles**
+> 💼 **Open to Junior ML Engineer / Data Scientist / AI Engineer roles** — available full-time on weekdays
