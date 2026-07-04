@@ -4,7 +4,6 @@
 ---
 
 ### 🔭 What I'm working on
-- **AI Research Associate @Keywords Studios** — RLHF dataset curation and LLM evaluation
 - **MSc in Computer Science** at University of Silesia — focusing on ML and Data Science
 - **Building ML projects** — predictive modeling, NLP fine-tuning, RAG systems
 
