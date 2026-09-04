@@ -1,33 +1,39 @@
-# Hi, I'm Bartosz 👋
-**ML Engineer · Data Scientist · AI Research Associate**
+# Bartosz Ziętek
+
+**Machine Learning Engineer · Data Scientist**
+
+Computer Science graduate from the University of Silesia, currently completing an MSc while building ML systems end to end — from data quality and modelling through deployment and monitoring. One year of commercial experience evaluating GenAI models.
+
+Open to Junior ML Engineer / Data Scientist roles.
 
 ---
 
-### 🔭 What I'm working on
-- **MSc in Computer Science** at University of Silesia — focusing on ML and Data Science
-- **Building ML projects** — predictive modeling, NLP fine-tuning, RAG systems
+### Projects
 
-### 🛠️ Tech stack
-| Area | Technologies |
-|------|--------------|
-| **Languages** | Python, TypeScript, SQL, Java |
-| **Machine learning & AI** | scikit-learn, PyTorch, Hugging Face Transformers, LangChain, OpenAI API |
-| **Data & analytics** | Pandas, NumPy, Matplotlib, Jupyter |
-| **Tools** | Git, Streamlit, Docker (basics) |
+**[Fraud Detection Drift Monitoring](https://github.com/bzietek/fraud-drift-monitoring)** — *MSc thesis, in progress*
+Detecting model degradation before labels arrive: in anti-fraud systems the ground truth is delayed by up to 120 days, so performance monitoring is a quarter too late. Benchmarking anomaly detection methods against statistical baselines as early-warning drift signals.
+`Python` `XGBoost` `PyTorch` `SHAP` `FastAPI` `Docker` `Evidently` `Prometheus`
 
-### 🎓 Education
-- **BSc in Computer Science** — University of Silesia · graduated with honors, GPA 5.0
-- **MSc in Computer Science** — University of Silesia · weekend studies, in progress
+**[Customer Churn Prediction](https://github.com/bzietek/customer-churn-prediction)**
+Full ML pipeline with business-driven threshold optimisation: modelling asymmetric costs moved the decision threshold from 0.5 to 0.07, reaching 99.5% recall and +358k PLN expected value on the test set.
+`Python` `scikit-learn` `XGBoost` `Pandas`
 
-## Featured Project
+**[Stock Sentiment Prediction](https://github.com/bzietek/stock-sentiment-prediction)** — *BSc thesis*
+Predicting short-term price direction from financial news sentiment with FinBERT and gradient boosting, with a Streamlit dashboard.
+`Python` `Hugging Face` `XGBoost` `Streamlit` `Plotly`
 
-### [Customer Churn Prediction](https://github.com/bzietek/customer-churn-prediction)
-End-to-end ML pipeline predicting telecom customer churn. EDA, feature engineering, 
-model comparison (LogReg, RF, XGBoost), hyperparameter tuning with cross-validation, 
-and business-driven threshold optimization.
+**[AutoRent Rental Platform](https://github.com/bzietek/autorent-rental-platform)** — *team project*
+Full-stack rental platform built in a four-person team with automated CI/CD.
+`PHP` `Yii2` `Oracle 19c` `Docker` `Nginx` `GitHub Actions`
 
-### 📫 Contact
-- **Email:** bzietek02@gmail.com
-- **LinkedIn:** [bartosz-zietek](https://linkedin.com/in/bartosz-zietek)
+---
 
-> 💼 **Open to Junior ML Engineer / Data Scientist / AI Engineer roles** — available full-time on weekdays
+### Tech
+
+**ML/AI** — PyTorch · scikit-learn · XGBoost · SHAP · Hugging Face Transformers · LangChain
+**Data** — Pandas · NumPy · SQL · Matplotlib · Streamlit
+**Engineering** — Python · Docker · FastAPI · Git · GitHub Actions · pytest · Prometheus · Grafana
+
+---
+
+📫 bzietek02@gmail.com · [LinkedIn](https://linkedin.com/in/bartosz-zietek)
